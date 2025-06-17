@@ -8,15 +8,3 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['_static']
-
-# source/index.rst
-
-Welcome to My Profile
-=====================
-
-.. toctree::
-   :maxdepth: 2
-
-   home
-   publications
-   research
