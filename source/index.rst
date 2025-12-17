@@ -12,8 +12,6 @@ ORCID: 0000-0002-2361-5193
    about
    research
    publications
-   projects
    software
    cv
-   teaching
    contact
