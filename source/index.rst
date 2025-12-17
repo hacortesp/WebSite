@@ -1,15 +1,26 @@
 Henry Andrés Cortés Páez
 ========================
 
-Postdoctoral Research Fellow – BCAM  
-Severo Ochoa Research Fellow  
-ORCID: 0000-0002-2361-5193
+About
+-----
+
+I am a **Postdoctoral Research Fellow** at the **Basque Center for Applied Mathematics (BCAM)**,
+working in the *Modelling and Simulation in Life and Material Sciences (MSLMS)* group.
+
+My research focuses on:
+
+- Multiscale modeling of battery materials
+- Solid-state electrolytes
+- Force-field development
+- Molecular dynamics and first-principles simulations
+
+I obtained my PhD in **Science and Technology (Physics)** from the
+National University of General San Martín (Argentina), working at CNEA.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents
 
-   about
    research
    publications
    software

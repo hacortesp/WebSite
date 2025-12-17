@@ -11,5 +11,5 @@ html_static_path = ["_static"]
 
 html_title = "Henry Andrés Cortés Páez"
 
-html_favicon = "cortes.png"
-html_logo = "cortes.png"
+html_favicon = "_static/cortes.jpg"
+html_logo = "_static/cortes.jpg"
