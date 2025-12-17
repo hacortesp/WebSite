@@ -1,15 +1,11 @@
-# Makefile (UNIX)
-
-PROJECT = "My Profile"
-BUILDDIR      = build
-SPHINXOPTS    = 
+SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SOURCEDIR     = source
+BUILDDIR      = _build
 
-.PHONY: html clean
+help:
+	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)"
 
 html:
-	$(SPHINXBUILD) -b html $(SPHINXOPTS) $(SOURCEDIR) $(BUILDDIR)/html
-
-clean:
-	rm -rf $(BUILDDIR)/*
+	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)"
+	

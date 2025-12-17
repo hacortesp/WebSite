@@ -1,10 +1,10 @@
-project = 'My Profile'
-author = 'Your Name'
-release = '1.0'
+project = "Henry Andrés Cortés Páez"
+author = "Henry Andrés Cortés Páez"
 
 extensions = []
-templates_path = ['_templates']
-exclude_patterns = []
 
-html_theme = 'furo'
-html_static_path = ['_static']
+html_theme = "sphinx_rtd_theme"
+
+templates_path = ["_templates"]
+exclude_patterns = []
+html_static_path = ["_static"]
