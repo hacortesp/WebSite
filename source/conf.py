@@ -3,7 +3,7 @@ author = "Henry Andrés Cortés Páez"
 
 extensions = []
 
-html_theme = 'clasic' 
+html_theme = 'classic' 
 
 templates_path = ["_templates"]
 exclude_patterns = []
