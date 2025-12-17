@@ -1,3 +1,7 @@
+.. image:: _static/cortes.jpg
+   :width: 200px
+   :align: left
+
 About
 =====
 
