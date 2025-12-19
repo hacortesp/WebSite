@@ -1,7 +1,0 @@
-@ECHO OFF
-set SPHINXBUILD=sphinx-build
-set SOURCEDIR=source
-set BUILDDIR=build
-
-%SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR%
-
