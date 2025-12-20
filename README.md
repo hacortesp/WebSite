@@ -1,5 +1,10 @@
-# Personal Academic Website
+# Academic Portfolio – Henry Andrés Cortés Páez
 
-This repository hosts my personal academic webpage built with **Jekyll – Minimal theme** and deployed via **GitHub Pages**.
+Personal academic website built with **Jekyll** and hosted on **GitHub Pages**.
 
-🔗 https://your-github-username.github.io
+🔗 https://hacortesp.github.io
+
+### Tech stack
+- Jekyll
+- Minimal theme
+- GitHub Pages
