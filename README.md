@@ -1,6 +1,5 @@
-# Personal WebSite
+# Personal Academic Website
 
+This repository hosts my personal academic webpage built with **Jekyll – Minimal theme** and deployed via **GitHub Pages**.
 
-
-This website is built using **Sphinx** and contains my academic profile, CV, publications, projects, and software.
-
+🔗 https://your-github-username.github.io
