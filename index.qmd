@@ -1,0 +1,26 @@
+---
+title: "Yair Litman"
+comments: False
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: envelope
+      href: mailto:yl899@cam.ac.uk
+    - icon: twitter
+      href: https://x.com/YairLitman
+    - icon: linkedin
+      href: https://www.linkedin.com/in/yair-litman-11345b30/
+    - text: "{{< ai orcid >}}" 
+      href: https://orcid.org/0000-0002-6890-4052 
+    - text: "{{< ai google-scholar >}}" 
+      href: https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en 
+
+---
+
+Computational Material Scientist - Theoretical Chemist 
+
+
+Yair Litman is a dedicated theoretical chemist working at the Yusuf Hamied Department of Chemistry (University of Cambridge) with a passion for solving complex problems at the interface of chemistry, physics, and materials science.
+
+

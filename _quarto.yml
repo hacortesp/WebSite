@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  reader-mode: false
+  title: "Yair Litman"
+  favicon: webpage_logo.png
+  site-url: "https://matiasandina.netlify.app"
+  repo-url: "https://github.com/litman90/webpage"
+  repo-actions: [edit, issue]
+  open-graph: true
+  twitter-card:
+    creator: "Yair Litman"
+    card-style: summary_large_image
+  
+  search:
+    location: navbar
+    type: overlay
+    copy-button: true
+    
+  comments:
+    utterances:
+      repo: matiasandina/Webpage
+      label: "Comment"
+      theme: github-dark
+
+  #page-footer:
+    # using footer in _metadata
+    #right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    #left: "&copy; CC-By Matias Andina, 2023"
+  
+  navbar: 
+    background: secondary
+    search: true
+    left:
+      #- text: "Posts"
+      #  file: posts/index.qmd
+      # - text: "Projects"
+      #  file: projects/index.qmd
+      - text: "Research Areas"
+        file: research/index.qmd
+      - href: publications/index.qmd
+      - href: codes/index.qmd
+        text: Software
+      - text: "CV"
+        href: files/CV.pdf
+      - text: "Past lives"
+        file: past_lives/index.qmd
+    right: 
+      #- icon: github
+      #  href: https://github.com/matiasandina/
+      - icon: envelope
+        href: mailto:yl899@cam.ac.uk
+      - icon: twitter
+        href: https://x.com/YairLitman
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yair-litman-11345b30/
+      - text: "{{< ai orcid >}}" 
+        href: https://orcid.org/0000-0002-6890-4052 
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en 
+
+
+format:
+  html: 
+    theme:
+      light: [flatly, theme.scss] 
+      dark: [darkly, dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    # page formatting
+    grid:
+      #sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+editor: visual
