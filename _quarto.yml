@@ -5,14 +5,14 @@ project:
 website:
   page-navigation: true
   reader-mode: false
-  title: "Yair Litman"
+  title: "Henry Andres Cortes"
   favicon: webpage_logo.png
   site-url: "https://matiasandina.netlify.app"
-  repo-url: "https://github.com/litman90/webpage"
+  repo-url: "ihttps://github.com/hacortesp/WebSite/"
   repo-actions: [edit, issue]
   open-graph: true
   twitter-card:
-    creator: "Yair Litman"
+    creator: "Henry Andres Cortes"
     card-style: summary_large_image
   
   search:
@@ -54,13 +54,13 @@ website:
       - icon: envelope
         href: mailto:yl899@cam.ac.uk
       - icon: twitter
-        href: https://x.com/YairLitman
+        href: https://x.com/hacortesp
       - icon: linkedin
-        href: https://www.linkedin.com/in/yair-litman-11345b30/
+        href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
       - text: "{{< ai orcid >}}" 
-        href: https://orcid.org/0000-0002-6890-4052 
+        href: https://orcid.org/my-orcid?orcid=0000-0002-2361-5193
       - text: "{{< ai google-scholar >}}"
-        href: https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en 
+        href: https://scholar.google.de/citations?hl=en&pli=1&user=Yqqj8fEAAAAJ
 
 
 format:
