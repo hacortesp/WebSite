@@ -12,7 +12,7 @@ website:
   repo-actions: [edit, issue]
   open-graph: true
   twitter-card:
-    creator: "Henry Andres Cortes"
+    creator: "Henry Andrés Cortés"
     card-style: summary_large_image
   
   search:
