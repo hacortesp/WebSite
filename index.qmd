@@ -3,24 +3,22 @@ title: "Henry Andres Cortes"
 comments: False
 about:
   template: jolla
-  image: profile.jpg
+  image: Profile.jpg
   links:
     - icon: envelope
+      text: Mail
       href: mailto:hacortesp@bcamath.org
     - icon: twitter
+      text: twitter
       href: https://x.com/hacortesp
     - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
-    - text: "{{< ai orcid >}}" 
-      href: https://orcid.org/my-orcid?orcid=0000-0002-2361-519
-    - text: "{{< ai google-scholar >}}" 
-      href: https://scholar.google.de/citations?hl=en&pli=1&user=Yqqj8fEAAAAJ 
-
+    - icon: github
+      text: Github
+      href: https://github.com/matiasandina
 ---
 
-Computational Material Scientist - Theoretical Chemist 
+Computational Materials Scientist – Theoretical Physicist
 
-
-Yair Litman is a dedicated theoretical chemist working at the Yusuf Hamied Department of Chemistry (University of Cambridge) with a passion for solving complex problems at the interface of chemistry, physics, and materials science.
-
-
+Henry Andrés Cortés Páez is a computational materials scientist and theoretical physicist currently working as a Severo Ochoa postdoctoral researcher at the Basque Center for Applied Mathematics (BCAM) in Spain. His research focuses on atomistic and multiscale modeling of materials for energy storage, with particular emphasis on solid-state and lithium-based batteries. He combines first-principles calculations, molecular dynamics, and data-driven analysis to understand ion transport, interfacial phenomena, and structure–property relationships in complex materials systems.

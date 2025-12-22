@@ -5,10 +5,10 @@ project:
 website:
   page-navigation: true
   reader-mode: false
-  title: "Henry Andres Cortes"
+  title: "Henry A. Cortes"
   favicon: webpage_logo.png
   site-url: "https://matiasandina.netlify.app"
-  repo-url: "ihttps://github.com/hacortesp/WebSite/"
+  repo-url: "https://github.com/hacortesp/WebSite/"
   repo-actions: [edit, issue]
   open-graph: true
   twitter-card:
@@ -35,10 +35,6 @@ website:
     background: secondary
     search: true
     left:
-      #- text: "Posts"
-      #  file: posts/index.qmd
-      # - text: "Projects"
-      #  file: projects/index.qmd
       - text: "Research Areas"
         file: research/index.qmd
       - href: publications/index.qmd
@@ -46,25 +42,23 @@ website:
         text: Software
       - text: "CV"
         href: files/CV.pdf
-      - text: "Past lives"
-        file: past_lives/index.qmd
+      #- text: "Past lives"
+      #  file: past_lives/index.qmd
     right: 
       - icon: github
         href: https://github.com/hacortesp
       - icon: envelope
         href: mailto:hacortesp@bamath.gro
-      - icon: twitter
-        href: https://x.com/hacortesp
-      - icon: linkedin
-        href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
       - text: "{{< ai orcid >}}" 
         href: https://orcid.org/my-orcid?orcid=0000-0002-2361-5193
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.de/citations?hl=en&pli=1&user=Yqqj8fEAAAAJ
+      - icon: linkedin
+        href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
 
 
 format:
-  html: 
+  html:  
     theme:
       light: [flatly, theme.scss] 
       dark: [darkly, dark.scss]
