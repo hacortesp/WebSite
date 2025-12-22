@@ -49,10 +49,10 @@ website:
       - text: "Past lives"
         file: past_lives/index.qmd
     right: 
-      #- icon: github
-      #  href: https://github.com/matiasandina/
+      - icon: github
+        href: https://github.com/hacortesp
       - icon: envelope
-        href: mailto:yl899@cam.ac.uk
+        href: mailto:hacortesp@bamath.gro
       - icon: twitter
         href: https://x.com/hacortesp
       - icon: linkedin

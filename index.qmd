@@ -6,15 +6,15 @@ about:
   image: profile.jpg
   links:
     - icon: envelope
-      href: mailto:yl899@cam.ac.uk
+      href: mailto:hacortesp@bcamath.org
     - icon: twitter
-      href: https://x.com/YairLitman
+      href: https://x.com/hacortesp
     - icon: linkedin
-      href: https://www.linkedin.com/in/yair-litman-11345b30/
+      href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
     - text: "{{< ai orcid >}}" 
-      href: https://orcid.org/0000-0002-6890-4052 
+      href: https://orcid.org/my-orcid?orcid=0000-0002-2361-519
     - text: "{{< ai google-scholar >}}" 
-      href: https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en 
+      href: https://scholar.google.de/citations?hl=en&pli=1&user=Yqqj8fEAAAAJ 
 
 ---
 
