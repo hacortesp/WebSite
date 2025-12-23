@@ -2,17 +2,14 @@
   {
     "listing": "/research/MetalOxygen/index.html",
     "items": [
+      "/publications/2025_012_Unsupervised-NPJ/index.html",
+      "/publications/2025_011_Enhanced-Stability-Spinel-JAC/index.html",
+      "/publications/2025_010_DMC-matters-JMCA/index.html",
+      "/publications/2024_009_A-Data-Mining-JMCA/index.html",
+      "/publications/2023_008_Anion-Trapping-MacroMol/index.html",
+      "/publications/2022_007_On-the-interfacial-JCIS/index.html",
       "/publications/2021_005_In-situ-Charac-Ultra/index.html",
-      "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
-      "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
-      "/publications/2017_002_Comment-on-ChemElectroChem/index.html",
-      "/publications/2015_001_Pitahaya-aging-FoodAnalyMeth/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/2021_005_In-situ-Charac-Ultra/index.html",
+      "/publications/2022_006_Partition-Constant-JPCB/index.html",
       "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
       "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
       "/publications/2017_002_Comment-on-ChemElectroChem/index.html",
@@ -72,6 +69,23 @@
       "/posts/2017-11-30-about-good-discussions/index.html",
       "/posts/2017-11-16-about-teaching-nonsense/index.html",
       "/posts/2017-11-14-how-to-make-a-cake/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2025_012_Unsupervised-NPJ/index.html",
+      "/publications/2025_011_Enhanced-Stability-Spinel-JAC/index.html",
+      "/publications/2025_010_DMC-matters-JMCA/index.html",
+      "/publications/2024_009_A-Data-Mining-JMCA/index.html",
+      "/publications/2023_008_Anion-Trapping-MacroMol/index.html",
+      "/publications/2022_007_On-the-interfacial-JCIS/index.html",
+      "/publications/2021_005_In-situ-Charac-Ultra/index.html",
+      "/publications/2022_006_Partition-Constant-JPCB/index.html",
+      "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
+      "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
+      "/publications/2017_002_Comment-on-ChemElectroChem/index.html",
+      "/publications/2015_001_Pitahaya-aging-FoodAnalyMeth/index.html"
     ]
   },
   {
