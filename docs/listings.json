@@ -2,23 +2,24 @@
   {
     "listing": "/research/Solid-stateBatteries/index.html",
     "items": [
-      "/publications/2025_012_Unsupervised-NPJ/index.html",
-      "/publications/2024_009_A-Data-Mining-JMCA/index.html",
-      "/publications/2023_008_Anion-Trapping-MacroMol/index.html",
-      "/publications/2022_007_On-the-interfacial-JCIS/index.html"
+      "/publications/2025_013_Unsupervised-NPJ/index.html",
+      "/publications/2024_010_A-Data-Mining-JMCA/index.html",
+      "/publications/2023_009_Anion-Trapping-MacroMol/index.html",
+      "/publications/2022_008_On-the-interfacial-JCIS/index.html"
     ]
   },
   {
     "listing": "/research/ConfinedFluids/index.html",
     "items": [
-      "/publications/2022_006_Partition-Constant-JPCB/index.html"
+      "/publications/2022_007_Partition-Constant-JPCB/index.html"
     ]
   },
   {
     "listing": "/research/LiOxygen/index.html",
     "items": [
-      "/publications/2021_005_In-situ-Charac-Ultra/index.html",
-      "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
+      "/publications/2021_006_In-situ-Charac-Ultra/index.html",
+      "/publications/2020_004_RevealingLi2O2Nucleation-ChemCatChem/index.html",
+      "/publications/2021_005_Understanding-Effect-Doping-JPCC/index.html",
       "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
       "/publications/2017_002_Comment-on-ChemElectroChem/index.html"
     ]
@@ -26,15 +27,16 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/2025_012_Unsupervised-NPJ/index.html",
-      "/publications/2025_011_Enhanced-Stability-Spinel-JAC/index.html",
-      "/publications/2025_010_DMC-matters-JMCA/index.html",
-      "/publications/2024_009_A-Data-Mining-JMCA/index.html",
-      "/publications/2023_008_Anion-Trapping-MacroMol/index.html",
-      "/publications/2022_007_On-the-interfacial-JCIS/index.html",
-      "/publications/2021_005_In-situ-Charac-Ultra/index.html",
-      "/publications/2022_006_Partition-Constant-JPCB/index.html",
-      "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
+      "/publications/2025_013_Unsupervised-NPJ/index.html",
+      "/publications/2025_012_Enhanced-Stability-Spinel-JAC/index.html",
+      "/publications/2025_011_DMC-matters-JMCA/index.html",
+      "/publications/2024_010_A-Data-Mining-JMCA/index.html",
+      "/publications/2023_009_Anion-Trapping-MacroMol/index.html",
+      "/publications/2022_008_On-the-interfacial-JCIS/index.html",
+      "/publications/2021_006_In-situ-Charac-Ultra/index.html",
+      "/publications/2022_007_Partition-Constant-JPCB/index.html",
+      "/publications/2020_004_RevealingLi2O2Nucleation-ChemCatChem/index.html",
+      "/publications/2021_005_Understanding-Effect-Doping-JPCC/index.html",
       "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
       "/publications/2017_002_Comment-on-ChemElectroChem/index.html",
       "/publications/2015_001_Pitahaya-aging-FoodAnalyMeth/index.html"
@@ -107,8 +109,8 @@
   {
     "listing": "/research/Li-ionBatteries/index.html",
     "items": [
-      "/publications/2025_011_Enhanced-Stability-Spinel-JAC/index.html",
-      "/publications/2025_010_DMC-matters-JMCA/index.html"
+      "/publications/2025_012_Enhanced-Stability-Spinel-JAC/index.html",
+      "/publications/2025_011_DMC-matters-JMCA/index.html"
     ]
   }
 ]
