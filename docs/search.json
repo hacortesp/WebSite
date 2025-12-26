@@ -970,21 +970,21 @@
     "href": "CV/index.html#attended-courses",
     "title": "Curriculum Vitae",
     "section": "Attended Courses",
-    "text": "Attended Courses\nNeural Networks** (24 h)\nCastellón, Spain — Jan 2025\nBATtery Modeling & Advanced Numerical Simulations (BATMAN)** (75 h)\nCopenhagen, Denmark — Sep 2023\nCalculation of Magnetic Properties from Density Functional Theory** (25 h)\nUniversity of Buenos Aires — Jul 2021\nBasic Concepts of Neutron Scattering** (80 h)\nNational Atomic Energy Commission (CNEA), Argentina — Jul 2016\nNanomaterials and Micro Devices: Synthesis, Manufacture and Characterization** (60 h)\nCNEA, Argentina — Jul 2016\nElectrochemical Systems of Energy Storage and Conversion** (70 h)\nUniversity of Buenos Aires — May 2016\nFundamentals and Applications of Transport Processes** (128 h)\nUniversity of Buenos Aires — Aug–Dec 2015\nElectronic Structure of Materials: Calculation Techniques from First Principles** (120 h)\nCNEA, Argentina — Apr–Jul 2015"
+    "text": "Attended Courses\nNeural Networks (24 h)\nCastellón, Spain — Jan 2025\nBATtery Modeling & Advanced Numerical Simulations (BATMAN) (75 h)\nCopenhagen, Denmark — Sep 2023\nCalculation of Magnetic Properties from Density Functional Theory (25 h)\nUniversity of Buenos Aires — Jul 2021\nBasic Concepts of Neutron Scattering (80 h)\nNational Atomic Energy Commission (CNEA), Argentina — Jul 2016\nNanomaterials and Micro Devices: Synthesis, Manufacture and Characterization (60 h)\nCNEA, Argentina — Jul 2016\nElectrochemical Systems of Energy Storage and Conversion (70 h)\nUniversity of Buenos Aires — May 2016\nFundamentals and Applications of Transport Processes (128 h)\nUniversity of Buenos Aires — Aug–Dec 2015\nElectronic Structure of Materials: Calculation Techniques from First Principles (120 h)\nCNEA, Argentina — Apr–Jul 2015"
   },
   {
     "objectID": "CV/index.html#invited-seminars",
     "href": "CV/index.html#invited-seminars",
     "title": "Curriculum Vitae",
     "section": "Invited Seminars",
-    "text": "Invited Seminars\nAtomistic Modelling and Simulation of Materials for Next-Generation Batteries*\nDepartment of Condensed Matter, CNEA, Argentina — Apr 2025\nUnderstanding Ionic Diffusion in Solid Electrolytes: An Atomistic Perspective*\nTongji University (Tongji–Covestro), Shanghai, China — Oct 2024\nFrom Atoms to Applications: Design and Characterization of Pioneer Materials Through Atomistic Simulations*\nBCAM–UPV/EHU, Bilbao, Spain — Apr 2024\nAn Atom’s-Eye View of Lithium Dynamics in Dual-Doped LLZO*\nUniversity of St Andrews, UK — Nov 2023"
+    "text": "Invited Seminars\n\nAtomistic Modelling and Simulation of Materials for Next-Generation Batteries\nDepartment of Condensed Matter, CNEA, Argentina — Apr 2025\nUnderstanding Ionic Diffusion in Solid Electrolytes: An Atomistic Perspective\nTongji University (Tongji–Covestro), Shanghai, China — Oct 2024\nFrom Atoms to Applications: Design and Characterization of Pioneer Materials Through Atomistic Simulations\nBCAM–UPV/EHU, Bilbao, Spain — Apr 2024\nAn Atom’s-Eye View of Lithium Dynamics in Dual-Doped LLZO\nUniversity of St Andrews, UK — Nov 2023"
   },
   {
     "objectID": "CV/index.html#relevant-conference-talks",
     "href": "CV/index.html#relevant-conference-talks",
     "title": "Curriculum Vitae",
     "section": "Relevant Conference Talks",
-    "text": "Relevant Conference Talks\nAn Unsupervised Approach to Exploring Ion Mobility in Crystalline Solid-State Electrolytes**\nPower our Future, Vitoria, Spain — Jul 2025 (Oral)\nUnsupervised Method for Decoding Ion Diffusion in Inorganic Crystalline Solid Electrolytes**\nMath 2 Product (M2P), Valencia, Spain — Jun 2025 (Invited)\nUnsupervised Learning Framework for Solid-State Electrolytes**\nE-MRS Spring Meeting, Strasbourg, France — May 2025 (Oral)\nUnsupervised Framework for Studying Ion Mobility in Solid-State Electrolytes**\n247th ECS Meeting, Montreal, Canada — May 2025 (Oral)\nEffects of Multi-Doping on Transport in Ga/Sc-Doped LLZO**\nE-MRS Fall Meeting, Warsaw, Poland — Sep 2024 (Oral)"
+    "text": "Relevant Conference Talks\n\nAn Unsupervised Approach to Exploring Ion Mobility in Crystalline Solid-State Electrolytes\nPower our Future, Vitoria, Spain — Jul 2025 (Oral)\nUnsupervised Method for Decoding Ion Diffusion in Inorganic Crystalline Solid Electrolytes\nMath 2 Product (M2P), Valencia, Spain — Jun 2025 (Invited)\nUnsupervised Learning Framework for Solid-State Electrolytes\nE-MRS Spring Meeting, Strasbourg, France — May 2025 (Oral)\nUnsupervised Framework for Studying Ion Mobility in Solid-State Electrolytes\n247th ECS Meeting, Montreal, Canada — May 2025 (Oral)\nEffects of Multi-Doping on Transport in Ga/Sc-Doped LLZO\nE-MRS Fall Meeting, Warsaw, Poland — Sep 2024 (Oral)"
   },
   {
     "objectID": "CV/index.html#awards-and-individual-grants",
@@ -994,18 +994,25 @@
     "text": "Awards and Individual Grants\n\nSevero Ochoa Grant — Spanish Government (2025–2026)\nKey Foreign Experts Travel Grant — Chinese Government (2024, 2025)\nHPC-Europa3 Fellowship — European Commission (2022)\nPostdoctoral Fellowship — CONICET, Argentina (2020–2021)\nBest Presentation Award — ICTP Caribbean School (2019)\nHonor Mention — PhD Dissertation (2020)\nDoctoral Fellowship — CONICET, Argentina (2015–2020)\nYoung Researcher Grant — COLCIENCIAS, Colombia (2014–2015)\nLaureate Dissertation — BSc Physics, University of Quindío (2012)"
   },
   {
+    "objectID": "CV/index.html#research-projects",
+    "href": "CV/index.html#research-projects",
+    "title": "Curriculum Vitae",
+    "section": "Research Projects",
+    "text": "Research Projects\n\nIKUR-HPC&AI – ADOBADO\nCo-PI — €68,596 — Jul 2025–Dec 2026\nCICe23 – Advanced Electrolytes for Post-Li-Ion Batteries\nInvestigator — €82,669.90 — Mar 2024–Dec 2025\nPID2022-136585NB-C22 (MICINN)\nInvestigator — €155,000 — Jun 2023–May 2027\nICME-2023 (ELKARTEK)\nInvestigator — €81,583.58 — Mar 2023–Dec 2024\nIKUR-HPC&IA\nInvestigator — €212,928 — Jul 2023–Dec 2024\nHPC-EUROPA3\nPI — £2,600 + 150,000 CPU hours — Mar–Apr 2022\nPID2019-104927GB-C22 (MICINN)\nInvestigator — €153,700 — Jun 2020–May 2023"
+  },
+  {
     "objectID": "CV/index.html#research-stays-and-internships",
     "href": "CV/index.html#research-stays-and-internships",
     "title": "Curriculum Vitae",
     "section": "Research Stays and Internships",
-    "text": "Research Stays and Internships\n-Tongji University, Shanghai, China — Oct 2024 (2 weeks)\nSolid Electrolyte Interphase in Li/Na batteries -University of St Andrews, Scotland — Nov 2023 (1 month)\nMultiscale modeling of solid-state electrolytes -ICTP, Trieste, Italy — Sep 2018 (1.5 months)\nCatalysis in Li–O₂ batteries"
+    "text": "Research Stays and Internships\n\nTongji University, Shanghai, China — Oct 2024 (2 weeks)\nSolid Electrolyte Interphase in Li/Na batteries\nUniversity of St Andrews, Scotland — Nov 2023 (1 month)\nMultiscale modeling of solid-state electrolytes\nICTP, Trieste, Italy — Sep 2018 (1.5 months)\nCatalysis in Li–O₂ batteries"
   },
   {
     "objectID": "CV/index.html#other-relevant-information",
     "href": "CV/index.html#other-relevant-information",
     "title": "Curriculum Vitae",
     "section": "Other Relevant Information",
-    "text": "Other Relevant Information\nLanguages\nSpanish (native), English (fluent)\nSoftware & Programming\nPython, FORTRAN, Bash; VASP, Quantum ESPRESSO, LAMMPS, GROMACS, ASE; HPC (MPI, OpenMP, SLURM)"
+    "text": "Other Relevant Information\nLanguages\nSpanish (native), English (fluent)\nSoftware & Programming\nPython, FORTRAN, Bash; VASP, Quantum ESPRESSO, LAMMPS, GROMACS, ASE; HPC (MPI, OpenMP, SLURM)\nCode Development - Developer of CrySF (ion diffusion analysis toolkit) - Contributor to LICA (Li-ion conductivity analysis)"
   },
   {
     "objectID": "CV/index.html#management-organizational-experience-and-institutional-responsibilities",
