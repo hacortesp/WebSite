@@ -1,29 +1,26 @@
 [
   {
-    "listing": "/research/MetalOxygen/index.html",
+    "listing": "/research/Solid-stateBatteries/index.html",
     "items": [
-      "/publications/2025_011_Enhanced-Stability-Spinel-JAC/index.html",
-      "/publications/2021_005_In-situ-Charac-Ultra/index.html",
-      "/publications/2022_006_Partition-Constant-JPCB/index.html",
-      "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
-      "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
-      "/publications/2017_002_Comment-on-ChemElectroChem/index.html"
-    ]
-  },
-  {
-    "listing": "/research/CompositePolymerElectrolytes/index.html",
-    "items": [
+      "/publications/2025_012_Unsupervised-NPJ/index.html",
+      "/publications/2024_009_A-Data-Mining-JMCA/index.html",
       "/publications/2023_008_Anion-Trapping-MacroMol/index.html",
       "/publications/2022_007_On-the-interfacial-JCIS/index.html"
     ]
   },
   {
-    "listing": "/research/index.html",
+    "listing": "/research/ConfinedFluids/index.html",
     "items": [
-      "/research/CompositePolymerElectrolytes/index.html",
-      "/research/InorganicElectrolytes/index.html",
-      "/research/LiquidElectrolytes/index.html",
-      "/research/MetalOxygen/index.html"
+      "/publications/2022_006_Partition-Constant-JPCB/index.html"
+    ]
+  },
+  {
+    "listing": "/research/LiOxygen/index.html",
+    "items": [
+      "/publications/2021_005_In-situ-Charac-Ultra/index.html",
+      "/publications/2021_004_Understanding-Effect-Doping-JPCC/index.html",
+      "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
+      "/publications/2017_002_Comment-on-ChemElectroChem/index.html"
     ]
   },
   {
@@ -99,16 +96,19 @@
     ]
   },
   {
-    "listing": "/research/LiquidElectrolytes/index.html",
+    "listing": "/research/index.html",
     "items": [
-      "/publications/2025_010_DMC-matters-JMCA/index.html"
+      "/research/ConfinedFluids/index.html",
+      "/research/LiOxygen/index.html",
+      "/research/Li-ionBatteries/index.html",
+      "/research/Solid-stateBatteries/index.html"
     ]
   },
   {
-    "listing": "/research/InorganicElectrolytes/index.html",
+    "listing": "/research/Li-ionBatteries/index.html",
     "items": [
-      "/publications/2025_012_Unsupervised-NPJ/index.html",
-      "/publications/2024_009_A-Data-Mining-JMCA/index.html"
+      "/publications/2025_011_Enhanced-Stability-Spinel-JAC/index.html",
+      "/publications/2025_010_DMC-matters-JMCA/index.html"
     ]
   }
 ]
