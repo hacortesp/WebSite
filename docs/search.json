@@ -959,18 +959,18 @@
     "text": "Preview\nquarto preview index.qmd\n\n\nPublish\nquarto render git add docs git commit -m “Publish site to docs/” git push"
   },
   {
-    "objectID": "CV/index.html",
-    "href": "CV/index.html",
+    "objectID": "CV/index.html#education",
+    "href": "CV/index.html#education",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Neural Networks (24 h)\nCastellón, Spain — Jan 2025\nBATtery Modeling & Advanced Numerical Simulations (BATMAN) (75 h)\nCopenhagen, Denmark — Sep 2023\nCalculation of Magnetic Properties from Density Functional Theory (25 h)\nUniversity of Buenos Aires — Jul 2021\nBasic Concepts of Neutron Scattering (80 h)\nNational Atomic Energy Commission (CNEA), Argentina — Jul 2016\nNanomaterials and Micro Devices: Synthesis, Manufacture and Characterization (60 h)\nCNEA, Argentina — Jul 2016\nElectrochemical Systems of Energy Storage and Conversion (70 h)\nUniversity of Buenos Aires — May 2016\nFundamentals and Applications of Transport Processes (128 h)\nUniversity of Buenos Aires — Aug–Dec 2015\nElectronic Structure of Materials: Calculation Techniques from First Principles (120 h)\nCNEA, Argentina — Apr–Jul 2015\n\n:contentReferenceoaicite:1"
+    "section": "Education",
+    "text": "Education\nPh.D. in Science and Technology (Physics)\nNational University of San Martín, Argentina — 2020\nDissertation: Study of formation and charge transport of Li₂O₂ in relation with the Li-oxygen battery\nAdvisors: Verónica Vildosola, Horacio R. Corti\nWorkplace: National Atomic Energy Commission (CNEA)\nB.Sc. in Physics\nUniversity of Quindío, Colombia — 2012\n:contentReferenceoaicite:3"
   },
   {
     "objectID": "CV/index.html#attended-courses",
     "href": "CV/index.html#attended-courses",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Neural Networks (24 h)\nCastellón, Spain — Jan 2025\nBATtery Modeling & Advanced Numerical Simulations (BATMAN) (75 h)\nCopenhagen, Denmark — Sep 2023\nCalculation of Magnetic Properties from Density Functional Theory (25 h)\nUniversity of Buenos Aires — Jul 2021\nBasic Concepts of Neutron Scattering (80 h)\nNational Atomic Energy Commission (CNEA), Argentina — Jul 2016\nNanomaterials and Micro Devices: Synthesis, Manufacture and Characterization (60 h)\nCNEA, Argentina — Jul 2016\nElectrochemical Systems of Energy Storage and Conversion (70 h)\nUniversity of Buenos Aires — May 2016\nFundamentals and Applications of Transport Processes (128 h)\nUniversity of Buenos Aires — Aug–Dec 2015\nElectronic Structure of Materials: Calculation Techniques from First Principles (120 h)\nCNEA, Argentina — Apr–Jul 2015\n\n:contentReferenceoaicite:1"
+    "section": "Attended Courses",
+    "text": "Attended Courses\n\nNeural Networks (24 h)\nCastellón, Spain — Jan 2025\nBATtery Modeling & Advanced Numerical Simulations (BATMAN) (75 h)\nCopenhagen, Denmark — Sep 2023\nCalculation of Magnetic Properties from Density Functional Theory (25 h)\nUniversity of Buenos Aires — Jul 2021\nBasic Concepts of Neutron Scattering (80 h)\nNational Atomic Energy Commission (CNEA), Argentina — Jul 2016\nNanomaterials and Micro Devices: Synthesis, Manufacture and Characterization (60 h)\nCNEA, Argentina — Jul 2016\nElectrochemical Systems of Energy Storage and Conversion (70 h)\nUniversity of Buenos Aires — May 2016\nFundamentals and Applications of Transport Processes (128 h)\nUniversity of Buenos Aires — Aug–Dec 2015\nElectronic Structure of Materials: Calculation Techniques from First Principles (120 h)\nCNEA, Argentina — Apr–Jul 2015\n\n:contentReferenceoaicite:1"
   },
   {
     "objectID": "CV/index.html#invited-seminars",
