@@ -25,24 +25,6 @@
     ]
   },
   {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/2025_013_Unsupervised-NPJ/index.html",
-      "/publications/2025_012_Enhanced-Stability-Spinel-JAC/index.html",
-      "/publications/2025_011_DMC-matters-JMCA/index.html",
-      "/publications/2024_010_A-Data-Mining-JMCA/index.html",
-      "/publications/2023_009_Anion-Trapping-MacroMol/index.html",
-      "/publications/2022_008_On-the-interfacial-JCIS/index.html",
-      "/publications/2022_007_Partition-Constant-JPCB/index.html",
-      "/publications/2021_006_In-situ-Charac-Ultra/index.html",
-      "/publications/2021_005_Understanding-Effect-Doping-JPCC/index.html",
-      "/publications/2020_004_RevealingLi2O2Nucleation-ChemCatChem/index.html",
-      "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
-      "/publications/2017_002_Comment-on-ChemElectroChem/index.html",
-      "/publications/2015_001_Pitahaya-aging-FoodAnalyMeth/index.html"
-    ]
-  },
-  {
     "listing": "/posts/index.html",
     "items": [
       "/posts/2024-01-12-recoding-america/index.html",
@@ -95,6 +77,25 @@
       "/posts/2017-11-30-about-good-discussions/index.html",
       "/posts/2017-11-16-about-teaching-nonsense/index.html",
       "/posts/2017-11-14-how-to-make-a-cake/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2025_014_InterfacialAtomistic_Evolution-Small/index.html",
+      "/publications/2025_013_Unsupervised-NPJ/index.html",
+      "/publications/2025_012_Enhanced-Stability-Spinel-JAC/index.html",
+      "/publications/2025_011_DMC-matters-JMCA/index.html",
+      "/publications/2024_010_A-Data-Mining-JMCA/index.html",
+      "/publications/2023_009_Anion-Trapping-MacroMol/index.html",
+      "/publications/2022_008_On-the-interfacial-JCIS/index.html",
+      "/publications/2022_007_Partition-Constant-JPCB/index.html",
+      "/publications/2021_006_In-situ-Charac-Ultra/index.html",
+      "/publications/2021_005_Understanding-Effect-Doping-JPCC/index.html",
+      "/publications/2020_004_RevealingLi2O2Nucleation-ChemCatChem/index.html",
+      "/publications/2018_003_Effect-of-halogen-PCCP/index.html",
+      "/publications/2017_002_Comment-on-ChemElectroChem/index.html",
+      "/publications/2015_001_Pitahaya-aging-FoodAnalyMeth/index.html"
     ]
   },
   {
