@@ -1,0 +1,15 @@
+---
+title: "Understanding the Effect of Doping on the Charging Performance of Li-O₂ Batteries: The Role of Hole Polarons and Lithium Vacancies"
+author: ["Henry A. Cortés", "Jhon F. Zapata", "María A. Barral", "Verónica L. Vildosola"]
+date: 2021-09-09
+publication: "The Journal of Physical Chemistry C, **125**(35), 19156-19163 (2021)."
+categories: ["metal_ox"]
+url_source: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c05313
+url_preprint:
+journ: "The Journal of Physical Chemistry C"
+issue: 35
+page: 19156-19163
+year: 2021
+image: featured.png
+pub_number: 5
+---

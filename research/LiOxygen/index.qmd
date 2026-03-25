@@ -1,0 +1,28 @@
+---
+title: Li-Oxygen Batteries
+alias: &ALIAS metal_ox
+image: featured.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+Elucidating reaction pathways, intermediate species, and materials effects that control efficiency and reversibility in lithium–oxygen systems.
+
+<figure style="text-align: center;">
+    <img src="featured.png" alt="Featured Image" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height: auto;">
+</figure>
+
+
+## Related Publications
+
+
+:::{#pubs}
+:::

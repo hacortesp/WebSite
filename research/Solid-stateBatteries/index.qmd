@@ -1,0 +1,28 @@
+---
+title: Solid-state Batteries
+alias: &ALIAS SSBs
+image: featured.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+Studying ion transport, structure–property relationships, and interface stability in inorganic and composite solid electrolytes for next-generation batteries. 
+
+<figure style="text-align: center;">
+    <img src="featured.png" alt="Featured Image" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height: auto;">
+</figure>
+
+
+## Related Publications
+
+
+:::{#pubs}
+:::

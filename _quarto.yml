@@ -41,7 +41,7 @@ website:
       - href: codes/index.qmd
         text: Software
       - text: "CV"
-        href: files/CV.pdf
+        href: CV/index.qmd
       #- text: "Past lives"
       #  file: past_lives/index.qmd
     right: 
@@ -53,8 +53,6 @@ website:
         href: https://orcid.org/my-orcid?orcid=0000-0002-2361-5193
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.de/citations?hl=en&pli=1&user=Yqqj8fEAAAAJ
-      - icon: linkedin
-        href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
 
 
 format:

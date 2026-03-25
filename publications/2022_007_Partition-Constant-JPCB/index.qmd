@@ -1,0 +1,15 @@
+---
+title: "Partition Constant of Binary Mixtures for the Equilibrium between a Bulk and a Confined Phase"
+author: ["Henry A. Cortés", "Damian A. ScherlisMatías", "Marias H. Factorovich"]
+date: 2022-09-01
+publication: "The Journal of Physical Chemistry B, **126**(36), 6985-6996 (2022)."
+categories: ["ConFlu"]
+url_source: https://pubs.acs.org/doi/full/10.1021/acs.jpcb.2c03532
+url_preprint:
+journ: "The Journal of Physical Chemistry B"
+issue: 36
+page: 6985-6996
+year: 2022
+image: featured.png
+pub_number: 7
+---

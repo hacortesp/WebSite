@@ -1,0 +1,16 @@
+---
+title: "Pitahaya Aging Diagnostic by Impedance/Capacitance Spectroscopy"
+author: ["Henry A. Cortes", "Edgar Villegas", "Rócio Suárez", "José Castillo", "Luís Moreira Gonçalves", "Paulo R. Bueno"]
+date: 2014-05-02
+publication: "Food Analytical Methods, **8**, 126–129 (2015)."
+categories: []
+url_source: https://link.springer.com/article/10.1007/s12161-014-9878-7
+url_preprint:
+journ: "Food Analytical Methods"
+issue: 8
+page: 126-129
+year: 2015
+image: featured.png
+pub_number: 1
+
+---

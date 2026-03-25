@@ -1,0 +1,15 @@
+---
+title: "In-situ characterization of discharge products of lithium-oxygen battery using Flow Electrochemical Atomic Force Microscopy"
+author: ["Henry A. Cortés", "Horacio R. Corti"]
+date: 2021-08-10
+publication: "Ultramicroscopy, **230**, 113369 (2021)."
+categories: ["metal_ox"]
+url_source: https://www.sciencedirect.com/science/article/pii/S0304399121001510
+url_preprint:
+journ: "Ultramicroscopy"
+issue: 230
+page: 113369
+year: 2021
+image: featured.png
+pub_number: 6
+---

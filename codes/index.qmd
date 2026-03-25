@@ -3,8 +3,9 @@ title: Contribution to Community Software
 page-layout: full
 ---
 
-I am a main developer of i-PI and contributor to FHI-aims
+I am a main developer of CrySF and contributor to SOSS and LICA.
 
-* **<a href=https://ipi-code.org/> i-PI: a universal force engine </a>**  
-* **<a href=https://fhi-aims.org/> FHI-aims: The ab initio materials simulation package </a>**  
+* **<a href=https://crysf.readthedocs.io/en/latest/> CrySF: MD post processing tool </a>**
+* **<a href=https://soss.readthedocs.io/en/latest/> SOSS: Search for optimally stable structures code </a>**  
+* **<a href=https://gitlab.bcamath.org/pnath/lica-1.0.0> LICA: Lithion-ion cluster analysis code </a>**  
 

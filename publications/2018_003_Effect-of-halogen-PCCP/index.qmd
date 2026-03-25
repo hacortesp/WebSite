@@ -1,0 +1,15 @@
+---
+title: "Effect of halogen dopants on the properties of Li₂O₂: is chloride special?"
+author: ["Henry A. Cortés", "Verónica L. Vildosola", "María A. Barral", "Horacio R. Corti"]
+date: 2018-06-21
+publication: "Phys. Chem. Chem. Phys., **20**, 16924–16933 (2018)."
+categories: ["metal_ox"]
+url_source: https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp01211c
+url_preprint:
+journ: "Physical Chemistry Chemical Physics"
+issue: 20
+page: 16924-16933
+year: 2018
+image: featured.png
+pub_number: 3
+---
