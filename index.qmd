@@ -16,9 +16,13 @@ about:
       href: https://www.linkedin.com/in/henry-andres-cortes-paez-72309a76/
     - icon: github
       text: Github
-      href: https://github.com/matiasandina
+      href: https://github.com/hacortesp
 ---
 
-Computational Materials Scientist – Theoretical Physicist
+## Computational Materials Scientist – Theoretical Physicist
 
-Henry is a computational materials scientist and theoretical physicist currently working as a Severo Ochoa postdoctoral researcher at the Basque Center for Applied Mathematics (BCAM) in Spain. He has been awarded a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF-2025) for the project MULTI-SMARTSEI, focused on multiscale modeling of solid-state electrolyte interphases in next-generation lithium batteries. His research centers on atomistic and multiscale modeling of materials for energy storage, with particular emphasis on solid-state and lithium-based batteries. He combines first-principles calculations, molecular dynamics, and data-driven analysis to study ion transport, interfacial phenomena, and structure–property relationships in complex materials systems.
+Henry is a computational materials scientist and theoretical physicist currently working as a Severo Ochoa postdoctoral researcher in the [Modelling and Simulation in Life and Materials Sciences (MSLMS) group](https://www.bcamath.org/en/research/areas/m3a/mslms) at the Basque Center for Applied Mathematics (BCAM), Spain.
+
+He has been awarded a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF-2025) for **MULTI-SMARTSEI**, a project focused on the multiscale modelling of solid-electrolyte interphases in next-generation lithium batteries. The project brings together complementary expertise from three research groups: Prof. Elena Akhmatskaya’s [MSLMS group](https://www.bcamath.org/en/research/areas/m3a/mslms) at BCAM; Prof. Perla B. Balbuena’s [Balbuena Lab](https://balbuena-research.com/) at Texas A&M University; and Prof. Javier Carrasco’s [Modelling and Computational Simulation group](https://cicenergigune.com/en/modelling-and-computational-simulation) at CIC energiGUNE.
+
+His research centres on the atomistic and multiscale modelling of materials for energy storage, with particular emphasis on solid-state and lithium-based batteries. He combines first-principles calculations, molecular dynamics, and data-driven analysis to investigate ion transport, interfacial phenomena, and structure–property relationships in complex materials systems.

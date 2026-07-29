@@ -21,20 +21,64 @@ University of Quindío, Colombia — *2012*
 ---
 
 ## Individual Grants and Awards
-- Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF-2025) — European Commission
-Project: MULTI-SMARTSEI – Multiscale Modeling and Analysis for Rational Tuning of Solid-state Electrolyte Interphases in Next-Generation Lithium Batteries
-- Severo Ochoa Grant — Spanish Government (2025–2026)
-- Key Foreign Experts Travel Grant — Chinese Government (2024, 2025)
-- HPC-Europa3 Fellowship — European Commission (2022)
-- Postdoctoral Fellowship — CONICET, Argentina (2020–2021)
-- Best Presentation Award — ICTP Caribbean School (2019)
-- Honor Mention — PhD Dissertation (2020)
-- Doctoral Fellowship — CONICET, Argentina (2015–2020)
-- Young Researcher Grant — COLCIENCIAS, Colombia (2014–2015)
-- Laureate Dissertation — BSc Physics, University of Quindío (2012)
 
+- **Marie Skłodowska-Curie Global Postdoctoral Fellowship (MSCA-PF-2025)** — European Commission (€262,000)  
+  **Project:** **MULTI-SMARTSEI** — *Multiscale Modeling and Analysis for Rational Tuning of Solid-State Electrolyte Interphases in Next-Generation Lithium Batteries*
+- **Severo Ochoa Postdoctoral Fellowship** — Spanish State Research Agency (AEI), 2025–2026
+- **Key Foreign Experts Travel Grant** — Chinese Government, 2024 and 2025
+- **HPC-Europa3 Fellowship** — European Commission, 2022
+- **Postdoctoral Fellowship** — CONICET, Argentina, 2020–2021
+- **Best Presentation Award** — ICTP Caribbean School, 2019
+- **Honor Mention — Ph.D. Dissertation** — National University of San Martín, 2020
+- **Doctoral Fellowship** — CONICET, Argentina, 2015–2020
+- **Young Researcher Grant** — COLCIENCIAS, Colombia, 2014–2015
+- **Laureate Dissertation — B.Sc. in Physics** — University of Quindío, 2012
 ---
 
+## Funded Research Projects
+
+- **IKUR 2025–2026: HPC&AI, HPCAI27 — ADOBADO** — *Jan 2025–Dec 2026*  
+  *Advancing Diagnosis and Optimization of Next-Generation Li-Ion Batteries and Capacitors through Machine Learning and Physics-Based Models*  
+  **Role:** Co-Principal Investigator and BCAM task leader  
+  **Funding:** Basque Government, IKUR Strategy  
+  **Budget:** €68,600 (total project)
+
+- **ELKARTEK CICE24** — *Apr 2024–Dec 2025*  
+  *Investigación en Materiales, Componentes y Modelos Avanzados para la Futura Generación de Baterías para Movilidad*  
+  **Role:** BCAM team member  
+  **Funding:** Basque Government  
+  **Budget:** €87,100 (BCAM node)
+
+- **ELKARTEK ICME-23 — Plan Complementario de Materiales Avanzados** — *Apr 2023–Dec 2025*  
+  *Metodología de Modelización Multiescala Proceso–Microestructura–Propiedades–Desempeño para la Agilización del Diseño de Materiales, Procesos y Componentes Metálicos en la Industria Vasca*  
+  **Role:** BCAM team member  
+  **Budget:** €72,300 (BCAM node)
+
+- **PID2022-136585NB-C22** — *Jun 2023–May 2027*  
+  *New Applications of Geometric Numerical Integrators to Evolution Problems, Stochastic Differential Equations and Hamiltonian Monte Carlo Simulations*  
+  **Role:** Research team member and task leader  
+  **Principal Investigator:** Prof. Elena Akhmatskaya  
+  **Funding:** Spanish Ministry of Science and Innovation (MICINN)  
+  **Budget:** €81,500
+
+- **ELKARTEK CICe21** — *Apr 2021–Dec 2022*  
+  *Investigación en Materiales, Componentes y Modelos Avanzados para la Futura Generación de Baterías para Movilidad*  
+  **Role:** Team member  
+  **Funding:** Basque Government  
+  **Budget:** €53,600 (BCAM node)
+
+- **PID2019-104927GB-C22** — *Jun 2020–Nov 2023*  
+  *Geometric Numerical Integrators for Quantum Problems, Celestial Mechanics and Monte Carlo*  
+  **Role:** Research team member  
+  **Principal Investigators:** F. Casas, E. Akhmatskaya, and A. Murua  
+  **Funding:** Spanish Ministry of Science and Innovation (MICINN)  
+  **Budget:** €153,700
+
+- **Spanish Supercomputing Network HPC Access Grants** — *2022–2023*  
+  Grants **QHS-2023-3-0034**, **QHS-2023-2-0034**, and **QHS-2022-3-0027** provided access to the Barcelona Supercomputing Center infrastructure.  
+  **Funding:** Red Española de Supercomputación
+
+---
 ## Attended Courses
 
 **Neural Networks** (24 h)  

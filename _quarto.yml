@@ -20,12 +20,6 @@ website:
     type: overlay
     copy-button: true
     
-  comments:
-    utterances:
-      repo: matiasandina/Webpage
-      label: "Comment"
-      theme: github-dark
-
   #page-footer:
     # using footer in _metadata
     #right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
@@ -36,7 +30,15 @@ website:
     search: true
     left:
       - text: "Research Areas"
-        file: research/index.qmd
+        menu:
+          - text: "Li-Oxygen Batteries"
+            href: research/LiOxygen/index.html
+          - text: "Li-ion Batteries"
+            href: research/Li-ionBatteries/index.html
+          - text: "Solid-state Batteries"
+            href: research/Solid-stateBatteries/index.html
+          - text: "Confined Fluids and Phase Equilibria"
+            href: research/ConfinedFluids/index.html
       - href: publications/index.qmd
       - href: codes/index.qmd
         text: Software
@@ -48,9 +50,9 @@ website:
       - icon: github
         href: https://github.com/hacortesp
       - icon: envelope
-        href: mailto:hacortesp@bamath.gro
+        href: mailto:hacortesp@bamath.org
       - text: "{{< ai orcid >}}" 
-        href: https://orcid.org/my-orcid?orcid=0000-0002-2361-5193
+        href: https://orcid.org/0000-0002-2361-5193
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.de/citations?hl=en&pli=1&user=Yqqj8fEAAAAJ
 
@@ -58,8 +60,8 @@ website:
 format:
   html:  
     theme:
-      light: [flatly, theme.scss] 
-      dark: [darkly, dark.scss]
+      light: [cosmo, theme.scss] 
+      dark: [cyborg, dark.scss]
     code-copy: true
     code-overflow: wrap
     toc: true

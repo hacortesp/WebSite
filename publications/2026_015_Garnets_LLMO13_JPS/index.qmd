@@ -1,0 +1,23 @@
+---
+title: "Garnets Li7La3M2O13 (M = Ta, Nb): Stable phases and superior ionic conductors?"
+author: [
+  "Henry A. Cortés",
+  "Bikram Kumar Das",
+  "Herbert Früchtl",
+  "Tanja van Mourik",
+  "Venkataraman Thangadurai",
+  "Elena Akhmatskaya",
+  "Mauricio R. Bonilla"
+]
+date: 2026-04-10
+publication: "Journal of Power Sources"
+categories: []
+url_source: https://www.sciencedirect.com/science/article/pii/S0378775326007846
+url_preprint:
+journ: "Journal of Power Sources"
+issue:
+page:
+year: 2026
+image: featured.png
+pub_number: 15
+---
